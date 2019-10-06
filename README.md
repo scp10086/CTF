@@ -17,3 +17,8 @@ CTF
 
 [andriod 逆向](https://www.bilibili.com/video/av56643958?from=search&seid=5543721325785215422)
 
+# WEB
+
+[Web前端 930集](https://www.bilibili.com/video/av68866999?from=search&seid=8842037814575847705)
+
+[渗透测试/漏洞挖掘/Web安全](https://www.bilibili.com/video/av41942769?from=search&seid=15231696429959451601)
