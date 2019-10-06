@@ -10,3 +10,5 @@ CTF
 # 逆向工程
 
 [OD教程 动态反汇编](https://www.bilibili.com/video/av48021550?from=search&seid=5543721325785215422)
+
+[逆向工程 入门到改行](https://www.bilibili.com/video/av57370611/?p=18)
