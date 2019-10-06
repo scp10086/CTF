@@ -6,3 +6,7 @@ CTF
 [新式网络浏览器幕后原理](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
 
 [深入理解浏览器工作原理](https://www.cnblogs.com/xiaohuochai/p/9174471.html)
+
+# 逆向工程
+
+[OD教程 动态反汇编](https://www.bilibili.com/video/av48021550?from=search&seid=5543721325785215422)
