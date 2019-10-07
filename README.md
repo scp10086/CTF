@@ -1,5 +1,6 @@
 # CTF
 CTF
+[逆向是啥玩意啊？这个咋入门啊？](https://mp.weixin.qq.com/s/6dvz-7Cf5QaIJeOgsVOu6g)
 
 [东南大学网络安全俱乐部新手教程](https://docs.qq.com/doc/DUlN1aGFsdWF4RXdh)
 
