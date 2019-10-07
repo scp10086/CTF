@@ -7,6 +7,8 @@ CTF
 
 [web安全入门-超级干货来袭！！](https://mp.weixin.qq.com/s/cnxDLUKi8y0WgqinotNlpA)
 
+[女神QQ被盗了！遇到这个事咋个整呢？](https://mp.weixin.qq.com/s/PSGbSVO8aHX8lSXqFsDfBQ)
+
 [东南大学网络安全俱乐部新手教程](https://docs.qq.com/doc/DUlN1aGFsdWF4RXdh)
 
 # 目标
