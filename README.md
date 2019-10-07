@@ -1,12 +1,11 @@
 # CTF
 CTF
+
 [逆向是啥玩意啊？这个咋入门啊？](https://mp.weixin.qq.com/s/6dvz-7Cf5QaIJeOgsVOu6g)
 
+[Web15天极客All Kill 指南](https://mp.weixin.qq.com/s/4MeV5XFFJ4Q67bNmJNfseA)
+
 [东南大学网络安全俱乐部新手教程](https://docs.qq.com/doc/DUlN1aGFsdWF4RXdh)
-
-[新式网络浏览器幕后原理](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
-
-[深入理解浏览器工作原理](https://www.cnblogs.com/xiaohuochai/p/9174471.html)
 
 # 目标
 学会动态反汇编后 做一个 黑暗之魂3 自动获得耳朵的脚本
