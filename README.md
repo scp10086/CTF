@@ -9,6 +9,8 @@ CTF
 
 # 目标
 学会动态反汇编后 做一个 黑暗之魂3 自动获得耳朵的脚本
+
+学会静态反汇编后 做一个破解器，破解一下Atro tudio
 # 逆向工程
 
 [OD教程 动态反汇编](https://www.bilibili.com/video/av48021550?from=search&seid=5543721325785215422)
@@ -33,3 +35,9 @@ CTF
 1. IDA 教程 例如 书
 
 2. 逆向网盘教程 例如 脱壳教程，破解软件，编写游戏辅助
+
+### 网站论坛
+
+[看雪论坛](https://www.kanxue.com/course.htm)
+
+[吾爱破解](https://www.52pojie.cn/)
