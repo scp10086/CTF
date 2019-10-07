@@ -5,6 +5,8 @@ CTF
 
 [Web15天极客All Kill 指南](https://mp.weixin.qq.com/s/4MeV5XFFJ4Q67bNmJNfseA)
 
+[web安全入门-超级干货来袭！！](https://mp.weixin.qq.com/s/cnxDLUKi8y0WgqinotNlpA)
+
 [东南大学网络安全俱乐部新手教程](https://docs.qq.com/doc/DUlN1aGFsdWF4RXdh)
 
 # 目标
