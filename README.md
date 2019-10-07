@@ -1,5 +1,4 @@
 # CTF
-CTF
 
 [逆向是啥玩意啊？这个咋入门啊？](https://mp.weixin.qq.com/s/6dvz-7Cf5QaIJeOgsVOu6g)
 
