@@ -14,6 +14,8 @@
 学会动态反汇编后 做一个 黑暗之魂3 自动获得耳朵的脚本
 
 学会静态反汇编后 做一个破解器，破解一下Atro tudio
+
+LAMP 
 # 逆向工程
 
 [OD教程 动态反汇编](https://www.bilibili.com/video/av48021550?from=search&seid=5543721325785215422)
@@ -44,3 +46,4 @@
 [看雪论坛](https://www.kanxue.com/course.htm)
 
 [吾爱破解](https://www.52pojie.cn/)
+
